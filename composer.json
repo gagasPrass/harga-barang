@@ -1,0 +1,12 @@
+{
+	"name": "labsroom/harga-barang",
+	"author": [
+		{
+			"name": "gaspol",
+			"email": "gagasprastya65@gmail.com"
+		}
+	],
+	"require":{
+		"phpunit/phpunit": "^6.5"
+	}
+}
