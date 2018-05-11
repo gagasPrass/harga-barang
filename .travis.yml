@@ -14,3 +14,6 @@ script:
   - "curl -T hapus.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/praktek-4d/"
   - "curl -T simpan-baru.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/praktek-4d/"
   - "curl -T edit-form.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/praktek-4d/"
+  - "curl -T koneksi.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/praktek-4d/"
+  - "curl -T update.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/praktek-4d/"
+  
